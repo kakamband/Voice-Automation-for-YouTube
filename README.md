@@ -1,4 +1,4 @@
-# Voice-Automation-for-Youtube
+# Voice-Automation-for-YouTube
 To run the script install the following dependencies:
 1.Google Speech Recognition
 2.keyboard
